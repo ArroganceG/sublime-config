@@ -1,0 +1,7 @@
+{
+	"encoding": "utf-8",  
+	"working_dir": "$file_path",  
+	"shell_cmd": "D:\\Python\\python.exe",  
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",  
+	"selector": "source.python"
+}

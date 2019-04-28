@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"D:/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"Emmet",
+		"Package Control",
+		"SublimeREPL"
+	]
+}
