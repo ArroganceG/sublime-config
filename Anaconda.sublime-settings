@@ -1,0 +1,6 @@
+{
+	"python_interpreter":"D:/Python/python.exe",
+	"suppress_word_completions":true,
+	"suppress_explicit_completions":true,
+	"complete_parameters":true,
+}

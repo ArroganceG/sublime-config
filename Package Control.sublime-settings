@@ -10,12 +10,12 @@
 	"installed_packages":
 	[
 		"10% Too Dull for My Tastes Color Scheme",
-		"Bootstrap 3 Autocomplete",
+		"Anaconda",
 		"Bootstrap 3 Snippets",
 		"Bootstrap 4 Autocomplete",
 		"Emmet",
-		"Jedi - Python autocompletion",
 		"Package Control",
+		"SideBarEnhancements",
 		"SublimeREPL"
 	]
 }
